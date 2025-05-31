@@ -4,7 +4,6 @@
 
 **I work at Fenwick High School**
 
-![Not working](https://bbk12e1-cdn.myschoolcdn.com/ftpimages/1356/news/large_news1313914_1219922.jpg)
 
 
 
