@@ -4,7 +4,7 @@
 
 **I work at Fenwick High School**
 
-![Not working](https://github.com/Tyfort/Tyfort/blob/main/assets/RayAtHome.jpg)
+
 
 !["heyhey"](assets/RayAtHome.jpg)
 
