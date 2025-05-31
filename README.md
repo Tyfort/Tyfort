@@ -6,7 +6,6 @@
 
 
 
-!["heyhey"](assets/RayAtHome.jpg)
 
 
 
